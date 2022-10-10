@@ -30,4 +30,21 @@
 
 <br>
 <br>
+
+## 기술스택
+
+ <img
+                src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white&link=https://we-co.tistory.com/"
+                style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ <img
+                src="https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=NumPy&logoColor=white&link=https://we-co.tistory.com/"
+                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+                
+<br>
+
+## 배운점
+<br>
+ 
+- python의 MatplotLib를 활용하여 그래프 사용법을 이해하고, 데이터를 시각화하는 방법을 습득
+<br>
 <br> 
