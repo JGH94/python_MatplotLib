@@ -21,7 +21,7 @@
  
 - 기간 : 2022. 10. 09
 - 내용 : Python의 MatplotLib를 활용하여 데이터 시각화 방법 습득
-- Model : https://wikidocs.net/137913
+- Model : MatplotLib
 - 자세히 : https://wikidocs.net/137913의 내용을 토대로 데이터를 시각화하는 기초 지식을 배워나가고 있습니다.
 <br>
 
