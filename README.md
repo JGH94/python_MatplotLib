@@ -48,5 +48,6 @@
 <br>
  
 - python의 MatplotLib를 활용하여 그래프 사용법을 이해하고, 데이터를 시각화하는 방법을 습득
+- mpl_toolkits.mplot3d lib 사용
 <br>
 <br> 
