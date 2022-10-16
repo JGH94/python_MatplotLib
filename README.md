@@ -27,6 +27,8 @@
 
  <img width="372" alt="image" src="https://user-images.githubusercontent.com/41178868/194813398-a9bfbbc4-59b4-4ed3-a204-36cb82f1043f.png">
  <img width="381" alt="image" src="https://user-images.githubusercontent.com/41178868/194813506-99953d95-a633-4dc6-b844-aab4e3632f2a.png">
+ <img width="376" alt="image" src="https://user-images.githubusercontent.com/41178868/196028993-8d795e6e-4c7b-4b97-baa7-2d4814e07495.png">
+ <img width="349" alt="image" src="https://user-images.githubusercontent.com/41178868/196029018-d15e725a-11d1-48ba-b1dd-a5f1ecf554ea.png">
 
 <br>
 <br>
@@ -39,7 +41,7 @@
  <img
                 src="https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=NumPy&logoColor=white&link=https://we-co.tistory.com/"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-                
+ 
 <br>
 
 ## 배운점
